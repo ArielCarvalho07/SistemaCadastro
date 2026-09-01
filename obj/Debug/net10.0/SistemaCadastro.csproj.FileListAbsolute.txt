@@ -1,0 +1,14 @@
+C:\Users\ariel\SistemaCadastro\bin\Debug\net10.0\SistemaCadastro.exe
+C:\Users\ariel\SistemaCadastro\bin\Debug\net10.0\SistemaCadastro.deps.json
+C:\Users\ariel\SistemaCadastro\bin\Debug\net10.0\SistemaCadastro.runtimeconfig.json
+C:\Users\ariel\SistemaCadastro\bin\Debug\net10.0\SistemaCadastro.dll
+C:\Users\ariel\SistemaCadastro\bin\Debug\net10.0\SistemaCadastro.pdb
+C:\Users\ariel\SistemaCadastro\obj\Debug\net10.0\SistemaCadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariel\SistemaCadastro\obj\Debug\net10.0\SistemaCadastro.AssemblyInfoInputs.cache
+C:\Users\ariel\SistemaCadastro\obj\Debug\net10.0\SistemaCadastro.AssemblyInfo.cs
+C:\Users\ariel\SistemaCadastro\obj\Debug\net10.0\SistemaCadastro.csproj.CoreCompileInputs.cache
+C:\Users\ariel\SistemaCadastro\obj\Debug\net10.0\SistemaCadastro.dll
+C:\Users\ariel\SistemaCadastro\obj\Debug\net10.0\refint\SistemaCadastro.dll
+C:\Users\ariel\SistemaCadastro\obj\Debug\net10.0\SistemaCadastro.pdb
+C:\Users\ariel\SistemaCadastro\obj\Debug\net10.0\SistemaCadastro.genruntimeconfig.cache
+C:\Users\ariel\SistemaCadastro\obj\Debug\net10.0\ref\SistemaCadastro.dll
