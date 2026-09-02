@@ -1,5 +1,13 @@
 # Sistema de Cadastro em C#
+# Sistema de Cadastro
 
+<p>
+  <img src="img/sistema.png" alt="Sistema de Cadastro">
+</p>
+
+<p>
+  Sistema de cadastro desenvolvido em C# para praticar lógica de programação e conceitos fundamentais de desenvolvimento.
+</p>
 Projeto desenvolvido em C# com o objetivo de praticar conceitos fundamentais de programação e desenvolvimento de aplicações no console.
 
 ## Funcionalidades

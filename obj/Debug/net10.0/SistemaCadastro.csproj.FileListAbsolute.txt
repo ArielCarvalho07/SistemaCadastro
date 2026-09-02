@@ -12,3 +12,4 @@ C:\Users\ariel\SistemaCadastro\obj\Debug\net10.0\refint\SistemaCadastro.dll
 C:\Users\ariel\SistemaCadastro\obj\Debug\net10.0\SistemaCadastro.pdb
 C:\Users\ariel\SistemaCadastro\obj\Debug\net10.0\SistemaCadastro.genruntimeconfig.cache
 C:\Users\ariel\SistemaCadastro\obj\Debug\net10.0\ref\SistemaCadastro.dll
+C:\Users\ariel\SistemaCadastro\obj\Debug\net10.0\SistemaCadastro.sourcelink.json
