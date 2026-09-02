@@ -1,4 +1,3 @@
-# Sistema de Cadastro em C#
 # Sistema de Cadastro
 
 <p>
